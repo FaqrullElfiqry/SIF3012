@@ -1,2 +1,2 @@
 # SIF3012
-my name id faqrull
+my name is faqrull
